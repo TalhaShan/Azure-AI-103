@@ -1,0 +1,31 @@
+- After-hours emergencies: Call +1-800-555-HELP
+- Critical system access: Contact your manager for escalation
+
+======================================
+2. SOFTWARE INSTALLATION REQUESTS
+======================================
+
+All software installations must be approved and performed by IT staff.
+
+Standard Software:
+The following software is pre-approved and can be requested through the IT portal:
+- Microsoft Office Suite
+- Adobe Acrobat Reader
+- Zoom
+- Microsoft Teams
+- Google Chrome
+- Mozilla Firefox
+- 7-Zip
+- VLC Media Player
+
+Custom/Specialized Software:
+1. Submit request through IT Support portal
+2. Provide business justification
+3. Manager approval required
+4. Security review (2-3 business days)
+5. License procurement (if needed)
+6. Installation scheduled within 5 business days of approval
+
+Process Timeline:
+- Standard software: 1-2 business days
+- Custom software: 5-10 business days
